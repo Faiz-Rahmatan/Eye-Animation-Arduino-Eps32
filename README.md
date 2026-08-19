@@ -17,21 +17,17 @@ Jika ingin mengambil atau menggunakan kodenya, kamu bisa menemukannya di folder 
 
 Berikut adalah bentuk rangkaian circuit dari proyek ini:
 
-<<<<<<< HEAD
 ![Circuit Eye Animation](Image/Urutan%20gambar.png)
 =======
 ![Circuit Eye Animation](assets/Urutan%20gambar.png)
->>>>>>> 0933eba35cd38c99c0da9e8a2b4bd6e46d8947c7
 
 ## 📐 Schematic
 
 Berikut adalah schematic circuit-nya:
 
-<<<<<<< HEAD
 ![Schematic Eye Animation](Image/Schematic.png)
 =======
 ![Schematic Eye Animation](assets/Schematic.png)
->>>>>>> 0933eba35cd38c99c0da9e8a2b4bd6e46d8947c7
 
 ## 🖥️ Simulasi
 
