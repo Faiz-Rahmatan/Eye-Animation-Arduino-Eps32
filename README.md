@@ -4,11 +4,7 @@ Saya membuat proyek **Arduino Eye Animation** menggunakan Arduino/ESP32 dan OLED
 
 Jika ingin mengambil atau menggunakan kodenya, kamu bisa menemukannya di folder **`wiring`**. :)
 
-<<<<<<< HEAD
-![Eye Animation Arduino](Image/Arduino%20Eye%20animation.png)
-=======
 ![Eye Animation Arduino](assets/Arduino%20Eye%20animation.png)
->>>>>>> 0933eba35cd38c99c0da9e8a2b4bd6e46d8947c7
 
 ## 🔧 Komponen yang Dibutuhkan
 
