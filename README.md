@@ -1,14 +1,37 @@
-# Eye-Animation-Arduino  
-aku membuat arduino Eye animation dan codenya sebagian ambil dari AI dan Youtube  
-kalau mau ambil codenya ada di folder wiring :).
+# Eye Animation Arduino
 
-![Eye-Animation-Arduino](Image/Arduino%Eye%animation.png)
+Saya membuat proyek **Arduino Eye Animation** menggunakan Arduino/ESP32 dan OLED display. Kode dalam proyek ini sebagian saya dapatkan dari bantuan AI dan tutorial di YouTube.
 
-dan ini komponen yang harus dibuat:  
-1.Arduino/Esp32 terserah versi apa.  
-2.Kabel Jumper 4.  
-3.oled screen.  
-4.Breadboard.
+Jika ingin mengambil atau menggunakan kodenya, kamu bisa menemukannya di folder **`wiring`**. :)
 
-dan ini bentuk Circuitnya:
-![Eye-Animation-Arduino](
+![Eye Animation Arduino](Image/Arduino%20Eye%20animation.png)
+
+## 🔧 Komponen yang Dibutuhkan
+
+1. Arduino atau ESP32 (versi apa saja).
+2. 4 kabel jumper.
+3. OLED screen.
+4. Breadboard.
+
+## 🔌 Circuit
+
+Berikut adalah bentuk rangkaian circuit dari proyek ini:
+
+![Circuit Eye Animation](Image/Urutan%20gambar.png)
+
+## 📐 Schematic
+
+Berikut adalah schematic circuit-nya:
+
+![Schematic Eye Animation](Image/Schematic.png)
+
+## 🖥️ Simulasi
+
+Untuk melakukan simulasi, saya menggunakan beberapa platform:
+
+* [Tinkercad](https://www.tinkercad.com/)
+* [Wokwi](https://wokwi.com/)
+* [Tinkered.AI](https://tinkered.ai)
+
+Semoga proyek ini berhasil dan bermanfaat!
+**Selamat mencoba! 🚀**
