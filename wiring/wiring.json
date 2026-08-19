@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "parts": [
+    {
+      "id": "we-mszrsnm4-a",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "46d"
+        }
+      ],
+      "position": {
+        "x": 0.03556,
+        "y": 0.0045000000000000005,
+        "z": -0.0063499999999999945
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrsnm4-b",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "8i"
+        }
+      ],
+      "position": {
+        "x": -0.06095999999999999,
+        "y": 0.0045000000000000005,
+        "z": 0.011429999999999996
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrsohn-a",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "45d"
+        }
+      ],
+      "position": {
+        "x": 0.03302,
+        "y": 0.0045000000000000005,
+        "z": -0.0063499999999999945
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrsohn-b",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "9i"
+        }
+      ],
+      "position": {
+        "x": -0.05841999999999999,
+        "y": 0.0045000000000000005,
+        "z": 0.011429999999999996
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrspg7-a",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "44d"
+        }
+      ],
+      "position": {
+        "x": 0.03048,
+        "y": 0.0045000000000000005,
+        "z": -0.0063499999999999945
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrspg7-b",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "15i"
+        }
+      ],
+      "position": {
+        "x": -0.043179999999999996,
+        "y": 0.0045000000000000005,
+        "z": 0.011429999999999996
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrsqts-a",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "12c"
+        }
+      ],
+      "position": {
+        "x": -0.0508,
+        "y": 0.0045000000000000005,
+        "z": -0.008889999999999995
+      },
+      "properties": {}
+    },
+    {
+      "id": "we-mszrsqts-b",
+      "type": "wire-end",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "t1",
+          "connection": "43d"
+        }
+      ],
+      "position": {
+        "x": 0.027940000000000013,
+        "y": 0.0045000000000000005,
+        "z": -0.0063499999999999945
+      },
+      "properties": {}
+    },
+    {
+      "id": "oled-128x64-mszrtv89",
+      "type": "oled-128x64",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "GND",
+          "connection": "43e"
+        },
+        {
+          "name": "VCC",
+          "connection": "44e"
+        },
+        {
+          "name": "SCL",
+          "connection": "45e"
+        },
+        {
+          "name": "SDA",
+          "connection": "46e"
+        }
+      ],
+      "position": {
+        "x": 0.03194,
+        "y": 0.0045000000000000005,
+        "z": 0.008190000000000003
+      },
+      "rotation": 0,
+      "properties": {}
+    },
+    {
+      "id": "arduino-nano-v3-mszs6ugw",
+      "type": "arduino-nano-v3",
+      "parentId": "breadboard-full-mszs89sa",
+      "terminals": [
+        {
+          "name": "D12",
+          "connection": "1d"
+        },
+        {
+          "name": "D13",
+          "connection": "1h"
+        },
+        {
+          "name": "D11",
+          "connection": "2d"
+        },
+        {
+          "name": "3V3",
+          "connection": "2h"
+        },
+        {
+          "name": "D10",
+          "connection": "3d"
+        },
+        {
+          "name": "AREF",
+          "connection": "3h"
+        },
+        {
+          "name": "D9",
+          "connection": "4d"
+        },
+        {
+          "name": "A0",
+          "connection": "4h"
+        },
+        {
+          "name": "D8",
+          "connection": "5d"
+        },
+        {
+          "name": "A1",
+          "connection": "5h"
+        },
+        {
+          "name": "D7",
+          "connection": "6d"
+        },
+        {
+          "name": "A2",
+          "connection": "6h"
+        },
+        {
+          "name": "D6",
+          "connection": "7d"
+        },
+        {
+          "name": "A3",
+          "connection": "7h"
+        },
+        {
+          "name": "D5",
+          "connection": "8d"
+        },
+        {
+          "name": "A4",
+          "connection": "8h"
+        },
+        {
+          "name": "D4",
+          "connection": "9d"
+        },
+        {
+          "name": "A5",
+          "connection": "9h"
+        },
+        {
+          "name": "D3",
+          "connection": "10d"
+        },
+        {
+          "name": "A6",
+          "connection": "10h"
+        },
+        {
+          "name": "D2",
+          "connection": "11d"
+        },
+        {
+          "name": "A7",
+          "connection": "11h"
+        },
+        {
+          "name": "GND_R",
+          "connection": "12d"
+        },
+        {
+          "name": "5V",
+          "connection": "12h"
+        },
+        {
+          "name": "RST_R",
+          "connection": "13d"
+        },
+        {
+          "name": "RST_L",
+          "connection": "13h"
+        },
+        {
+          "name": "D0",
+          "connection": "14d"
+        },
+        {
+          "name": "GND_L",
+          "connection": "14h"
+        },
+        {
+          "name": "D1",
+          "connection": "15d"
+        },
+        {
+          "name": "VIN",
+          "connection": "15h"
+        }
+      ],
+      "position": {
+        "x": -0.06165999999999999,
+        "y": 0.0045000000000000005,
+        "z": 0.0012700000000000489
+      },
+      "rotation": 0
+    },
+    {
+      "id": "breadboard-full-mszs89sa",
+      "type": "breadboard-full",
+      "parentId": null,
+      "terminals": [],
+      "position": {
+        "x": 0.03885610203841513,
+        "y": 0,
+        "z": 0.08764330994765057
+      },
+      "rotation": 0
+    }
+  ],
+  "wires": [
+    {
+      "id": "w-mszrsnm4",
+      "color": "yellow",
+      "from": "we-mszrsnm4-a",
+      "to": "we-mszrsnm4-b"
+    },
+    {
+      "id": "w-mszrsohn",
+      "color": "orange",
+      "from": "we-mszrsohn-a",
+      "to": "we-mszrsohn-b"
+    },
+    {
+      "id": "w-mszrspg7",
+      "color": "red",
+      "from": "we-mszrspg7-a",
+      "to": "we-mszrspg7-b"
+    },
+    {
+      "id": "w-mszrsqts",
+      "color": "black",
+      "from": "we-mszrsqts-a",
+      "to": "we-mszrsqts-b"
+    }
+  ]
+}
